@@ -1,3 +1,5 @@
+Copyright : TUM course "**Concepts of C++ programming**!"
+
 **CIIP C++ Course**
 
 Welcome to the CIIP course **Concepts of C++ programming**!
