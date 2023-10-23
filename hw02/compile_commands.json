@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02/hw02",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++20 -o CMakeFiles/hw02.dir/combinatorics.cpp.o -c /Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02/combinatorics.cpp",
+  "file": "/Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02/combinatorics.cpp"
+},
+{
+  "directory": "/Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02/hw02",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=gnu++20 -o CMakeFiles/runhw02.dir/run.cpp.o -c /Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02/run.cpp",
+  "file": "/Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02/run.cpp"
+}
+]

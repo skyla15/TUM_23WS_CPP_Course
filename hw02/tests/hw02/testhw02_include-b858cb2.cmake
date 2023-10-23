@@ -1,0 +1,5 @@
+if(EXISTS "/Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02/tests/hw02/testhw02_tests-b858cb2.cmake")
+  include("/Users/jaeyeopchung/Desktop/TUM_22WS/CPP/exercise/tasks/hw02/tests/hw02/testhw02_tests-b858cb2.cmake")
+else()
+  add_test(testhw02_NOT_BUILT-b858cb2 testhw02_NOT_BUILT-b858cb2)
+endif()

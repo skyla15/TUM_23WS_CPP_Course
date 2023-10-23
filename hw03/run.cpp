@@ -1,0 +1,26 @@
+#include "contact_list.h"
+#include "hw03.h"
+
+#include <iostream>
+
+namespace contact_list {
+
+void test_contact_list() {
+    storage abook;
+    add(abook, "Best Friend", 421234);
+    add(abook, "False Friend", 10032331);
+    // add(abook, "A", 10);
+    // add(abook, "C", 30);
+    // add(abook, "B", 20);
+    // std::cout << to_string(abook);
+    sort(abook);
+}
+
+} // namespace contact_list
+
+
+int main() {
+    contact_list::test_contact_list();
+
+    return 0;
+}

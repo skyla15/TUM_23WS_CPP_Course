@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/jaeyeopchung/Desktop/TUM_22WS/1_CPP/ge23gut_tasks/hw11/build",
+  "command": "/usr/bin/clang++  -I/Users/jaeyeopchung/Desktop/TUM_22WS/1_CPP/ge23gut_tasks/hw11 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/runhw11.dir/run.o -c /Users/jaeyeopchung/Desktop/TUM_22WS/1_CPP/ge23gut_tasks/hw11/run.cpp",
+  "file": "/Users/jaeyeopchung/Desktop/TUM_22WS/1_CPP/ge23gut_tasks/hw11/run.cpp"
+}
+]
